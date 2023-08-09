@@ -1,7 +1,7 @@
 {
     "name": "othertestlib/dep-2-name",
     "description": "D3p3ndency Confusion p0c for magento",
-    "type": "project",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
