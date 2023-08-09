@@ -3,7 +3,7 @@
         'name' => 'othertestlib/dep-2-name',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '2045380717e41c624e53fd526cee5a94ca1a9029',
+        'reference' => 'bffda358908754b327a515b2838c8343c200f0e5',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -22,7 +22,7 @@
         'othertestlib/dep-2-name' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '2045380717e41c624e53fd526cee5a94ca1a9029',
+            'reference' => 'bffda358908754b327a515b2838c8343c200f0e5',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
